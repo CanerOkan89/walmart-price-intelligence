@@ -5,7 +5,8 @@ Enterprise-scale retail price intelligence system analyzing 335,000+ Walmart gro
 - **Built Django REST API** processing 335,351 Walmart price records across 30,827 unique products
 - **Designed PostgreSQL database schema** with optimized indexing for large-scale retail data
 - **Created interactive Power BI dashboard** with 4 visualization types for executive insights
-- **Implemented data pipeline** handling 27GB CSV processing with error handling and validation
+- **Implemented data pipeline** processing 335k+ records with error handling and validation
+
 
 ## Business Impact
 - **Identified Alcohol category** commanding 28.6% of total price volume - key high-margin focus area
