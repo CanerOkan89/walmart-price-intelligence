@@ -29,7 +29,7 @@ Enterprise-scale retail price intelligence system analyzing 335,000+ Walmart gro
 - **Cross-visual filtering**: Click any chart element to filter all other visualizations
 - **Dynamic treemap analysis**: Department portfolio breakdown with real-time updates
   
-![Dashboard](dashboard.png)
+![Dashboard](newdashboard.png)
 
 ## Technology Stack
 - **Backend**: Django REST Framework, PostgreSQL
