@@ -6,6 +6,7 @@ Enterprise-scale retail price intelligence system analyzing 335,000+ Walmart gro
 - **Designed PostgreSQL database schema** with optimized indexing for large-scale retail data
 - **Created interactive Power BI dashboard** with 4 visualization types for executive insights
 - **Implemented data pipeline** processing 335k+ records with error handling and validation
+- **Created interactive Power BI dashboard** with cross-filtering capabilities and 4 visualization types
 
 
 ## Business Impact
@@ -20,6 +21,14 @@ Enterprise-scale retail price intelligence system analyzing 335,000+ Walmart gro
 - **Price volatility analysis** revealed products with 10x price swings for monitoring alerts
 - **Department ranking** from Coffee ($17.29 avg) to Pantry ($3.16 avg) shows clear margin tiers
 
+## Dashboard Features
+- Department price analysis with trend visualization
+- Product-level pricing intelligence and rankings
+- Executive KPI cards showing data scale and insights
+- Interactive filtering and drill-down capabilities
+- **Cross-visual filtering**: Click any chart element to filter all other visualizations
+- **Dynamic treemap analysis**: Department portfolio breakdown with real-time updates
+  
 ![Dashboard](dashboard.png)
 
 ## Technology Stack
