@@ -19,6 +19,8 @@ Enterprise-scale retail price intelligence system analyzing 335,000+ Walmart gro
 - **Price volatility analysis** revealed products with 10x price swings for monitoring alerts
 - **Department ranking** from Coffee ($17.29 avg) to Pantry ($3.16 avg) shows clear margin tiers
 
+![Dashboard](dashboard.png)
+
 ## Technology Stack
 - **Backend**: Django REST Framework, PostgreSQL
 - **Data Processing**: Python, Pandas, SQL
