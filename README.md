@@ -18,7 +18,7 @@ Enterprise-scale retail price intelligence system analyzing 335,000+ Walmart gro
 - **Alcohol + Meat & Seafood** represent major revenue categories with substantial volume
 - **Price volatility analysis** revealed products with 10x price swings for monitoring alerts
 - **Department ranking** from Coffee ($17.29 avg) to Pantry ($3.16 avg) shows clear margin tiers
-
+![Dashboard](dashboard_image_name.png)
 ## Technology Stack
 - **Backend**: Django REST Framework, PostgreSQL
 - **Data Processing**: Python, Pandas, SQL
